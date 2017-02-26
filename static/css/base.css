@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Lane;
+    src: url(../fonts/LANENAR.TTF);
+}
+
+body {
+	font-size: 100.01%;
+	font-family: Lane Helvetica sans-serif;
+	margin: 0; padding: 0;
+	text-align: center;
+	width: 100%;
+	background-color: black;
+    height: 100%;
+	color: white;
+}
+
+#Clock {
+	margin-bottom:50px;
+}
